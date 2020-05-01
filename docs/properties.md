@@ -5,7 +5,7 @@ This document describes VM properties, configurable in the VM definition file
 ### VM name
 Specifies VM name.
 
-* Path: `properties/vmProfiles[]/name`
+* Path: `properties/dvmProfiles[]/name`
 * Value: string (follows the rules of underlying OS)
 
 ### OS type
